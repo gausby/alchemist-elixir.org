@@ -242,6 +242,11 @@ p {
   text-align: center;
 }
 
+.features ul li:before {
+  content: '✰';
+  margin-right: 0.6em;
+}
+
 ul {
   width: 220px;
   text-align: left;
